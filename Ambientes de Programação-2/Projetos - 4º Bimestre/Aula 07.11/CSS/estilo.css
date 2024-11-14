@@ -1,0 +1,19 @@
+.cor{color:red;}
+h2{color:magenta}
+*{font-family:verdana;font-size:20px;}
+.cabecalho{color:green;
+           background-color:white;
+           padding:5px;}
+.sec{padding:5px;}
+.rodape{padding:15px;
+        color:white;
+        background-color:green;
+        text-align: center;}
+.cor1{color:hotpink;
+      font-size:40px;}
+nav{background-color:blue;padding:50px;}
+td{border:3px solid gray;}
+.alinha{width:80%;
+        margin:0 auto;}
+tr,th{background-color:red;
+      border:3px solid gray;}
